@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet de Recherche Opérationnelle 2026
 
 ## Réalisé par
@@ -63,3 +64,6 @@ Importer le fichier ZIP dans Overleaf, puis compiler :
 ## Remarque
 
 Les noms et numéros des étudiants sont déjà ajoutés dans `rapport.tex`, `presentation.tex` et ce README.
+=======
+# ro_project
+>>>>>>> 3d411a941c4ed736d4382180afef3ba0e2bdb98f
