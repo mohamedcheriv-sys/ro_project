@@ -1,0 +1,3 @@
+tournee,route,charge_litres,distance_km,outil
+1,Depot -> A -> B -> E -> F -> C -> Depot,950,23.0,NetworkX
+2,Depot -> D -> Depot,250,14.0,NetworkX

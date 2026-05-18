@@ -1,0 +1,4 @@
+element,x,y,rhs
+objectif_max,3,4,
+contrainte_1,1,2,8
+contrainte_2,3,1,9
