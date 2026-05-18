@@ -53,13 +53,6 @@ python src/run_all.py
 ```
 
 Les résultats sont générés dans le dossier `results/` et les figures dans `figures/`.
-
-## Compilation Overleaf
-
-Importer le fichier ZIP dans Overleaf, puis compiler :
-
-- `rapport.tex` pour le rapport ;
-- `presentation.tex` pour la présentation.
 =======
 # ro_project
 >>>>>>> 3d411a941c4ed736d4382180afef3ba0e2bdb98f
