@@ -8,6 +8,11 @@
 | C25936 | MOHAMED CHERIV |
 | C30620 | MOHAMEDEN ELBEDEWI |
 
+#video d'explication
+
+https://www.loom.com/share/7c00747b596d48c583c49a3ca359506c
+
+
 ## Objectif
 
 Ce dépôt contient un mini-projet de Recherche Opérationnelle en français. Il traite quatre applications :
